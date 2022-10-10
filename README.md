@@ -5,9 +5,9 @@
 http://189
 #EXTINF:-1"Informações da Lista",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR][COLOR purple][B](44)998656144[/B][/COLOR]
 http://189
-#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://45.170.92.6:8080/icones/ae.png" group-title="FILMES&SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]A&E
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E" tvg-logo="http://45.170.92.6:8080/icones/ae.png" group-title="FILMES&SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]A&E
 http://a5telecom.distv.net:8080/0388/0388/630
-#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.170.92.6:8080/icones/agrobrasil.png" group-title="PARABOLICA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AGRO BRASIL
+#EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.170.92.6:8080/icones/agrobrasil.png" group-title="PARABOLICA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AGRO BRASIL
 http://a5telecom.distv.net:8080/0388/0388/427
 #EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://45.170.92.6:8080/icones/agrocanal.png" group-title="PARABOLICA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AGRO CANAL
 http://a5telecom.distv.net:8080/0388/0388/428
