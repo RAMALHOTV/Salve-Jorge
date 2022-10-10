@@ -1,9 +1,8 @@
 #EXTM3U
-#EXTINF:-1,[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR pink][B] Última Atualização: 10/10 - 18:42 [/B][/COLOR]
+#EXTINF:-1"Informações da Lista",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR pink][B] Última Atualização: 10/10 - 18:42 [/B][/COLOR]
 http://189
-#EXTINF:-1,[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR][COLOR purple][B](44)998656144[/B][/COLOR]
+#EXTINF:-1"Informações da Lista",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR][COLOR purple][B](44)998656144[/B][/COLOR]
 http://189
-
 
 #EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA Playpus
 http://189.81.142.134:4000/play/a08t
