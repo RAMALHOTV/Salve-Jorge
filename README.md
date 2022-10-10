@@ -1,359 +1,371 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E01" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E01
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54663.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E02" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E02
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54664.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E03" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E03
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54665.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E04" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E04
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54666.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E05" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E05
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54667.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E06" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E06
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54668.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E07" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E07
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54669.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E08" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E08
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54670.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E09" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E09
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54671.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E10" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E10
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54672.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E11" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E11
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54673.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E12" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E12
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54674.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E13" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E13
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54675.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E14" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E14
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54676.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E15" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E15
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54677.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E16" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E16
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54678.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E17" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E17
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54679.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E18" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E18
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54680.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E19" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E19
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54681.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E20" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E20
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54682.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E21" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E21
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54683.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E22" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E22
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54684.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E23" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E23
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54685.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E24" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E24
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54686.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E25" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E25
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54687.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E26" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E26
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54688.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E27" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E27
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54689.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E28" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E28
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54690.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E29" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E29
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54691.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E30" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E30
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54692.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E31" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E31
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54693.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E32" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E32
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54694.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E33" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E33
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54695.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E34" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E34
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54696.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E35" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E35
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54697.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E36" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E36
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54698.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E37" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E37
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54699.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E38" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E38
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54700.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E39" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E39
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54701.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E40" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E40
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54702.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E41" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E41
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54703.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E42" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E42
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54704.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E43" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E43
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54705.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E44" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E44
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54706.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E45" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E45
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54707.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E46" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E46
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54708.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E47" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E47
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54709.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E48" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E48
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54710.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E49" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E49
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54711.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E50" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E50
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54712.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E51" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E51
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54713.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E52" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E52
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54714.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E53" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E53
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54715.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E54" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E54
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54716.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E55" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E55
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54717.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E56" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E56
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54718.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E57" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E57
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54719.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E58" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E58
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54720.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E59" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E59
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54721.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E60" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E60
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54722.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E61" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E61
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54723.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E62" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E62
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54724.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E63" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E63
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54725.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E64" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E64
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54726.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E65" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E65
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54727.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E66" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E66
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54728.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E67" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E67
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54729.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E68" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E68
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54730.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E69" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E69
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54731.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E70" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E70
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54732.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E71" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E71
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54733.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E72" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E72
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54734.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E73" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E73
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54735.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E74" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E74
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54736.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E75" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E75
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54737.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E76" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E76
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54738.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E77" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E77
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54739.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E78" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E78
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54740.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E79" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E79
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54741.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E80" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E80
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54742.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E81" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E81
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54743.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E82" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E82
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54744.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E83" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E83
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54745.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E84" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E84
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54746.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E85" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E85
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54747.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E86" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E86
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54748.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E87" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E87
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54749.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E88" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E88
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54750.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E89" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E89
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54751.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E90" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E90
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54752.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E91" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E91
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54753.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E92" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E92
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54754.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E93" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E93
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54755.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E94" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E94
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54756.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E95" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E95
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54757.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E96" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E96
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54758.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E97" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E97
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54759.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E98" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E98
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54760.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E99" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E99
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54761.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E100" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E100
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54762.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E101" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E101
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54763.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E102" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E102
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54764.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E103" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E103
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54765.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E104" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E104
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54766.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E105" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E105
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54767.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E106" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E106
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54768.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E107" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E107
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54769.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E108" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E108
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54770.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E109" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E109
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54771.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E110" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E110
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54772.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E111" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E111
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54773.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E112" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E112
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54774.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E113" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E113
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54775.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E114" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E114
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54776.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E115" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E115
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54777.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E116" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E116
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54778.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E117" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E117
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54779.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E118" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E118
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54780.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E119" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E119
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54781.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E120" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E120
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54782.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E121" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E121
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54783.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E122" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E122
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54784.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E123" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E123
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54785.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E124" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E124
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54786.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E125" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E125
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54787.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E126" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E126
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54788.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E127" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E127
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54789.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E128" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E128
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54790.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E129" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E129
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54791.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E130" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E130
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54792.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E131" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E131
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54793.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E132" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E132
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54794.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E133" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E133
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54795.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E134" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E134
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54796.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E135" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E135
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54797.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E136" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E136
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54798.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E137" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E137
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54799.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E138" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E138
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54800.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E139" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E139
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54801.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E140" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E140
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54802.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E141" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E141
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54803.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E142" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E142
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54804.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E143" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E143
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54805.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E144" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E144
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54806.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E145" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E145
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54807.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E146" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E146
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54808.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E147" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E147
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54809.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E148" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E148
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54810.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E149" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E149
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54811.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E150" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E150
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54812.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E151" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E151
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54813.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E152" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E152
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54814.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E153" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E153
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54815.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E154" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E154
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54816.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E155" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E155
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54817.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E156" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E156
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54818.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E157" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E157
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54819.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E158" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E158
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54820.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E159" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E159
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54821.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E160" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E160
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54822.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E161" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E161
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54823.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E162" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E162
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54824.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E163" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E163
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54825.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E164" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E164
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54826.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E165" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E165
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54827.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E166" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E166
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54828.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E167" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E167
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54829.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E168" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E168
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54830.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E169" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E169
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54831.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E170" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E170
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54832.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E171" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E171
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54833.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E172" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E172
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54834.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E173" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E173
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54835.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E174" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E174
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54836.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E175" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E175
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54837.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E176" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E176
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54838.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E177" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E177
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54839.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E178" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E178
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54840.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Salve Jorge S01 E179" tvg-logo="https://image.tmdb.org/t/p/w300" group-title="Novelas",Salve Jorge S01 E179
-http://51.89.98.62:8080/series/Osvaldo/Osvaldo123/54841.mp4
+#EXTINF:-1,[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR pink][B] Última Atualização: 10/10 - 18:42 [/B][/COLOR]
+http://189
+#EXTINF:-1,[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] [COLOR red][B] Todos os canais SEM TRAVAS 24hs||[/B][/COLOR][COLOR purple][B](44)998656144[/B][/COLOR]
+http://189
+
+
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA Playpus
+http://189.81.142.134:4000/play/a08t
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 01
+http://191.221.72.150:9000/play/a0fl/index.m3u8
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 02
+http://191.221.72.150:9000/play/a0fq/index.m3u8
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 03
+http://191.221.72.150:9000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 04
+http://191.221.72.150:9000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 05
+http://191.221.72.150:9000/play/a0ft/index.m3u8
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 06
+http://191.221.72.150:9000/play/a0fu/index.m3u8
+#EXTINF:-1 tvg-id="Fazenda.br" tvg-name="FAZENDA" tvg-logo="https://www.areavip.com.br/wp-content/uploads/2022/09/a-fazenda-14-reproducao-instagram.jpg" group-title="FAZENDA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FAZENDA 07
+http://191.221.72.150:9000/play/a0fv/index.m3u8
+
+#EXTINF:-1 tvg-id="globosp.br" tvg-name="Globo Brasília HD" tvg-logo="https://imgur.com/Jpyk8W1.jpeg" group-title="ABERTOS", [COLOR red][B]RamalhoIPTV ||[/B][/COLOR] GLOBO HD
+http://189.81.142.134:4000/play/a06c
+#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT HD" tvg-logo="https://i.imgur.com/ZH05UFI.png" group-title="ABERTOS",SBT HD
+http://189.91.128.146:4444/udp/227.10.20.120:1234
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="WARNER HD" tvg-logo="https://i.imgur.com/Q7imqyR.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] WARNER
+http://191.212.166.203:4000/play/a0ib
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] UNIVERSAL TV
+http://191.212.166.203:4000/play/a0ic
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] AXN
+http://191.212.166.203:4000/play/a0id
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SYFY
+http://191.212.166.203:4000/play/a0ie
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TNT
+http://191.212.166.203:4000/play/a0if
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] E!
+http://191.212.166.203:4000/play/a0ig
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] STAR LIFE
+http://191.212.166.203:4000/play/a0ih
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC PIPOCA
+http://191.212.166.203:4000/play/a0ii
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION SD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC ACTION
+http://191.212.166.203:4000/play/a0ij
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM SD LEG" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="CANAIS LEGENDADOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC PREMIUM
+http://191.212.166.203:4000/play/a0ik
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC CULT 
+http://191.212.166.203:4000/play/a0il
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC TOUCH
+http://191.212.166.203:4000/play/a0im
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN HD" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC FUN 
+http://191.212.166.203:4000/play/a0in
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO 
+http://191.212.166.203:4000/play/a0io
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO 2 
+http://191.212.166.203:4000/play/a0ip
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO+
+http://191.212.166.203:4000/play/a0iq
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO FAMILY 
+http://191.212.166.203:4000/play/a0ir
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO SIGNATURE
+http://191.212.166.203:4000/play/a0is
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO MUNDI
+http://191.212.166.203:4000/play/a0it
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO XTREME
+http://191.212.166.203:4000/play/a0iu
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP SD" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO POP
+http://191.212.166.203:4000/play/a0iv
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TNT
+http://191.212.166.203:4000/play/a0iw
+#EXTINF:-1 tvg-id="Megapix.br" tvg-name="MEGAPIX HD" tvg-logo="https://i.imgur.com/jfs7ILt.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] MEGAPIX
+http://191.212.166.203:4000/play/a0ix
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] PARAMOUNT
+http://191.212.166.203:4000/play/a0iy
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] AMC 
+http://191.212.166.203:4000/play/a0iz
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TCM 
+http://191.212.166.203:4000/play/a0j0
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FILM & ARTES M4
+http://191.212.166.203:4000/play/a0j1
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TBS
+http://191.212.166.203:4000/play/a0j2
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SPACE
+http://191.212.166.203:4000/play/a0je
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CINEMAX
+http://191.212.166.203:4000/play/a0jf
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CANAL BRASIL
+http://191.212.166.203:4000/play/a0jg
+#EXTINF:-1 tvg-id="Studiouniversal.br" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="https://i.imgur.com/Cw9p9xn.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] STUDIO UNIVERSAL
+http://191.212.166.203:4000/play/
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FX
+http://191.212.166.203:4000/play/
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] A&E
+http://191.212.166.203:4000/play/
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] ARTE 1
+http://191.212.166.203:4000/play/a0jk
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/z2g8Wz2.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] A&E
+http://191.212.166.203:4000/play/a06m
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/J0oZSHY.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] AMC
+http://191.212.166.203:4000/play/a074
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/OW2jA6l.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] AXN
+http://191.212.166.203:4000/play/a0i0
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HDᴮᴿ" tvg-logo="https://i.imgur.com/flpCCJP.png" group-title="DOCUMENTÁRIOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] ANIMAL PLANET
+http://191.212.166.203:4000/play/a0ec
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/4C0t9Mu.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] ARTE 1
+http://191.212.166.203:4000/play/a096
+#EXTINF:-1 tvg-id="Bis.br" tvg-name="BIS HDᴮᴿ" tvg-logo="https://i.imgur.com/gYYde8F.png" group-title="MUSICAIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] BIS 
+http://191.212.166.203:4000/play/a08y
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  DIARISTA 24H  CLUB
+http://191.212.166.203:4000/play/a0f7
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  ESCOLINHA DO P. RAIMUNDO 24H
+http://191.212.166.203:4000/play/a0f3
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  FRIENDS 24H
+http://191.212.166.203:4000/play/a0f8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  OS NORMAIS 24H
+http://191.212.166.203:4000/play/a0f4
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  SAI DE BAIXO 24H  
+http://191.212.166.203:4000/play/a0f5
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  THE BIG BANG THEORY 24H 
+http://191.212.166.203:4000/play/a0f6
+
+
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV HD" tvg-logo="https://i.imgur.com/4zZtcz7.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] BABY TV
+http://191.212.166.203:4000/play/a08t
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/7uZpdQy.png" group-title="NOTICIAS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] BAND NEWS
+http://191.212.166.203:4000/play/a0ff
+#EXTINF:-1 tvg-id="Bandsports.br" tvg-name="BAND SPORTS HD" tvg-logo="https://i.imgur.com/E58ts3N.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] BAND SPORTS
+http://191.212.166.203:4000/play/a090
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/8rkvAgg.png" group-title="ABERTOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] BAND 
+plugin://plugin.video.f4mTester/?name=[COLOR branco][B]Lista.Sem.Travas..:[/B][/COLOR][COLOR red][B] 37.991253261[/B][/COLOR];streamtype=HLSRETRY&url=http://102.165.46.153:80/live/00005794/MF159357C/923302.m3u8
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA HD" tvg-logo="https://1.bp.blogspot.com/-U3fsGZ-SE_c/WiCugPVFHbI/AAAAAAAABhs/nx9-SDkBz2QokcBhowgqg1V0VbpDJ0yyQCLcBGAs/s1600/cancao%2Bnova.png" group-title="RELIGIOSOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CANÇÃO NOVA
+http://191.212.166.203:4000/play/a0hu
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CARTON
+http://191.212.166.203:4000/play/a0i2
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] OGGY E AS BARATAS 24H
+http://191.212.166.203:4000/play/a0ex
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] PICA PAU 24H 
+http://191.212.166.203:4000/play/a0ez
+
+
+#EXTINF:-1 tvg-id="Premierefchd.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere Clubes FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37550.m3u8
+#EXTINF:-1 tvg-id="Premiere2.br" tvg-name="Premiere 2 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere 2 FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37551.m3u8
+#EXTINF:-1 tvg-id="Premiere3.br" tvg-name="Premiere 3 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere 3 FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37552.m3u8
+#EXTINF:-1 tvg-id="Premiere4.br" tvg-name="Premiere 4 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere 4 FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37553.m3u8
+#EXTINF:-1 tvg-id="Premiere5.br" tvg-name="Premiere 5 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere 5 FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37554.m3u8
+#EXTINF:-1 tvg-id="Premiere6.br" tvg-name="Premiere 6 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere 6 FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37555.m3u8
+#EXTINF:-1 tvg-id="Premiere7.br" tvg-name="Premiere 7 FHD" tvg-logo="https://imgur.com/Wj9yepw.jpeg" group-title="PREMIERE",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Premiere 7 FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/37556.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Combate FHD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/38277.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Combate HD
+plugin://plugin.video.f4mTester/?name=Lista.Sem.Travas..37.991253261&streamtype=HLSRETRY&url=http://loadbl2.online:8080/live/adilton10/adilton1234/38276.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="https://imgur.com/OlDFDhV.jpeg" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Combate SD
+#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/PHMX3dW.png" group-title="NOTICIAS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CNN BRASIL
+http://191.212.166.203:4000/play/a0hy
+#EXTINF:-1 tvg-id="Combate.br" tvg-name="COMBATE HD" tvg-logo="https://i.imgur.com/VmyE9nj.png" group-title="PREMIERE ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] COMBATE
+http://191.212.166.203:4000/play/a0h4
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://i.imgur.com/yIei5Pi.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] COMEDY CENTRAL
+http://191.212.166.203:4000/play/a0hr
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/L0t8PXm.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CANAL BRASIL
+http://191.212.166.203:4000/play/a0e8
+#EXTINF:-1 tvg-id="Sony.br" tvg-name="CANAL SONY HD" tvg-logo="https://i.imgur.com/NoNQCwf.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CANAL SONY
+http://191.212.166.203:4000/play/a09r
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/jHgXIvL.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CARTOON NETWORK 
+http://191.212.166.203:4000/play/
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/RyU4VFm.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CINEMAX
+http://191.212.166.203:4000/play/a0e9
+#EXTINF:-1 tvg-id="Curta.br" tvg-name="CURTA! HD" tvg-logo="https://i.imgur.com/Fvzjrxy.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CURTA!
+http://191.212.166.203:4000/play/a09b
+#EXTINF:-1 tvg-id="Discovery.br" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/QmrIsKO.png" group-title="DOCUMENTÁRIOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] DISCOVERY CHANNEL 
+http://191.212.166.203:4000/play/a0e6
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Discovery H&H
+http://191.212.166.203:4000/play/a08j
+#EXTINF:-1 tvg-id="Discturbohd.br" tvg-name="DISCOVERY TURBO HD" tvg-logo="https://i.imgur.com/pnocOuW.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] DISCOVERY TURBO 
+http://191.212.166.203:4000/play/a09l
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://i.imgur.com/Jicd5Ay.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] DISNEY CHANNEL 
+http://191.212.166.203:4000/play/a06o
+#EXTINF:-1 tvg-id="E.br" tvg-name="E! HD" tvg-logo="https://i.imgur.com/QJeXFRl.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] E! 
+http://191.212.166.203:4000/play/a088
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] ESPN 2
+http://191.212.166.203:4000/play/a08v
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/tlRUiwD.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FX 
+http://191.212.166.203:4000/play/a06b
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Film & Arts
+http://191.212.166.203:4000/play/a078
+#EXTINF:-1 tvg-id="Fishtv.br " tvg-name="FISH TV HD" tvg-logo="https://i.imgur.com/utr6scT.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FISH TV 
+http://191.212.166.203:4000/play/a081
+#EXTINF:-1 tvg-id="Foodnetworkhd.br" tvg-name="FOOD NETWORK HDᴮᴿ" tvg-logo="https://i.imgur.com/YvFvURx.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FOOD NETWORK
+http://191.212.166.203:4000/play/a08h
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="STAR LIFE HD" tvg-logo="https://i.imgur.com/rGZIEeU.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] STAR LIFE 
+http://191.212.166.203:4000/play/a076
+#EXTINF:-1 tvg-id="Futura.br" tvg-name="FUTURA HD" tvg-logo="https://i.imgur.com/iwadE97.png" group-title="ABERTOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] FUTURA 
+http://191.212.166.203:4000/play/a0es
+#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GB NEWS HD" tvg-logo="https://i.imgur.com/ftEWM1O.png" group-title="NOTICIAS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] GB NEWS
+http://191.212.166.203:4000/play/a0hn
+#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD*" tvg-logo="https://i.imgur.com/xvHmZsW.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] GNT
+http://191.212.166.203:4000/play/a0hp
+#EXTINF:-1 tvg-id="Gloob.br" tvg-name="GLOOB HDᴮᴿ" tvg-logo="https://i.imgur.com/mNWSbaO.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] GLOOB
+http://191.212.166.203:4000/play/a07q
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="GLOOBINHO HD" tvg-logo="https://i.imgur.com/I25tAsR.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] GLOOBINHO
+http://191.212.166.203:4000/play/a09i
+#EXTINF:-1 tvg-id="Hbo.br" tvg-name="HBO SD*" tvg-logo="https://i.imgur.com/AGilkU2.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO SD*
+http://191.212.166.203:4000/play/a0jd
+#EXTINF:-1 tvg-id="Hbo2.br" tvg-name="HBO 2 HD*" tvg-logo="https://i.imgur.com/e192Q1B.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO 2 HD*
+http://191.212.166.203:4000/play/a07b
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO MUNDI HD*
+http://191.212.166.203:4000/play/a08g
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO POP HD*
+http://191.212.166.203:4000/play/a08d
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO SIGNATURE HD*
+http://191.212.166.203:4000/play/a08f
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO XTREME HD*
+http://191.212.166.203:4000/play/a0a0
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO+ HD*
+http://191.212.166.203:4000/play/a077
+#EXTINF:-1 tvg-id="Hbofamily.br" tvg-name="HBO FAMILY HD*" tvg-logo="https://i.imgur.com/IUybpJM.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO FAMILY HD*
+http://191.212.166.203:4000/play/a0j7
+#EXTINF:-1 tvg-id="Max.br" tvg-name="HBO MUNDI HD*" tvg-logo="https://i.imgur.com/Lk2OHcl.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO MUNDI HD 2 
+http://191.212.166.203:4000/play/a09v
+#EXTINF:-1 tvg-id="Maxup.br" tvg-name="HBO POP HD*" tvg-logo="https://i.imgur.com/UXFVEqO.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO POP HD 2
+http://191.212.166.203:4000/play/a0a1
+#EXTINF:-1 tvg-id="Hbosignature.br" tvg-name="HBO SIGNATURE HD*" tvg-logo="https://i.imgur.com/h5gGTpO.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO SIGNATURE HD 2
+http://191.212.166.203:4000/play/a09w
+#EXTINF:-1 tvg-id="Maxprime.br" tvg-name="HBO XTREME HD*" tvg-logo="https://i.imgur.com/lD5DDkF.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO XTREME HD 2
+http://191.212.166.203:4000/play/a09z
+#EXTINF:-1 tvg-id="Hboplus.br" tvg-name="HBO+ HD*" tvg-logo="https://i.imgur.com/GxsJ8k5.png" group-title="REDE HBO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HBO+ HD 2 
+http://191.212.166.203:4000/play/a09x
+#EXTINF:-1 tvg-id="H2.br" tvg-name="H2 HD" tvg-logo="https://i.imgur.com/V2q95XY.png" group-title="DOCUMENTÁRIOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] H2 
+http://191.212.166.203:4000/play/a08l
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID - INVESTIGACAO DISCOVERY HD" tvg-logo="https://i.imgur.com/Z4dVCUq.png" group-title="DOCUMENTÁRIOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] ID - INVESTIGACAO DISCOVERY
+http://191.212.166.203:4000/play/a08n
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="ABERTOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] IDEAL TV
+http://191.212.166.203:4000/play/a0i9
+#EXTINF:-1 tvg-id="" tvg-name="JOVEN PAN NEWS FHD" tvg-logo="" group-title="NOTICIAS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] JOVEN PAN NEWS 
+http://191.212.166.203:4000/play/a0hx
+#EXTINF:-1 tvg-id="Lifetime.br" tvg-name="LIFETIME HD²" tvg-logo="https://i.imgur.com/nOylh16.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] LIFETIME
+http://191.212.166.203:4000/play/a08x
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Ben 10 24H
+http://191.212.166.203:4000/play/a0fa
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] CHAPOLIN
+http://191.212.166.203:4000/play/a0a3
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]  CHAVES
+http://191.212.166.203:4000/play/a0a2
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] DOIS HOMENS E MEIO 
+http://191.212.166.203:4000/play/a0a4
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] EU A PATROA E AS CRIANÇAS 
+http://191.212.166.203:4000/play/a09p
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] MR BEAN 24H  
+http://191.212.166.203:4000/play/a09q
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Masha  e o Urso 24H
+http://191.212.166.203:4000/play/a0f1
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Mickey e Dolnald 24H
+http://191.212.166.203:4000/play/a0ey
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Pantera Cor de Rosa 24H
+http://191.212.166.203:4000/play/a0f2
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Pernalonga 24H
+http://191.212.166.203:4000/play/a0fo
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TODO MUNDO ODEIA O CHRIS  
+http://191.212.166.203:4000/play/a09n
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Tom e Jerry 24H
+http://191.212.166.203:4000/play/a0f0
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] UM MALUCO NO PEDAÇO
+http://191.212.166.203:4000/play/a09o
+#EXTINF:-1 tvg-id="Mtv.br" tvg-name="MTV HDᴮᴿ" tvg-logo="https://i.imgur.com/kzkWnzx.png" group-title="MUSICAIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] MTV
+http://191.212.166.203:4000/play/a0hs
+#EXTINF:-1 tvg-id="Multishow.br" tvg-name="MULTISHOW HDᴮᴿ" tvg-logo="https://i.imgur.com/cquYXGO.png" group-title="MUSICAIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] MULTISHOW 
+http://191.212.166.203:4000/play/a0hq
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] Mais na tela
+http://191.212.166.203:4000/play/a09k
+#EXTINF:-1 tvg-id="Music Box Brazil" tvg-name="MUSIC BOX BRAZIL HD" tvg-logo="https://i.imgur.com/QViNe0X.png" group-title="MUSICAIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] MUSIC BOX BRAZIL
+http://191.212.166.203:4000/play/a0ia
+#EXTINF:-1 tvg-id="Tvnovotempo.br" tvg-name="TV NOVO TEMPO HD" tvg-logo="https://4.bp.blogspot.com/-raY7sJBGILE/WiCuhsDI0xI/AAAAAAAABiI/pEs95EqAFmEPqwIK22ImvEEBWe0eG7v4wCLcBGAs/s1600/novotempo.png" group-title="RELIGIOSOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TV NOVO TEMPO 
+http://191.212.166.203:4000/play/a0hw
+#EXTINF:-1 tvg-id="Nationalgeographic.br" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/RC9H44U.png" group-title="DOCUMENTÁRIOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] NATIONAL GEOGRAPHIC 
+http://191.212.166.203:4000/play/a07r
+#EXTINF:-1 tvg-id="NickJr.br" tvg-name="NICK JR HD" tvg-logo="https://i.imgur.com/C7RyYpb.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] NICK JR
+http://191.212.166.203:4000/play/a06p
+#EXTINF:-1 tvg-id="Nickelodeon.br" tvg-name="NICKELODEON HD*" tvg-logo="https://i.imgur.com/LvMTMuC.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] NICKELODEON
+http://191.212.166.203:4000/play/a06c
+#EXTINF:-1 tvg-id="Off.br" tvg-name="OFF HD" tvg-logo="https://i.imgur.com/xRNeNnZ.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] OFF
+http://191.212.166.203:4000/play/a08r
+#EXTINF:-1 tvg-id="Paramounthd.br" tvg-name="PARAMOUNT HD" tvg-logo="https://i.imgur.com/W88w8M2.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] PARAMOUNT
+http://191.212.166.203:4000/play/a06r
+#EXTINF:-1 tvg-id="Prime Box Brazil" tvg-name="PRIME BOX BRAZIL SD" tvg-logo="https://i.imgur.com/2hSgmWq.png" group-title="MUSICAIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] PRIME BOX BRAZIL
+http://191.212.166.203:4000/play/a0a5
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="RECORDTV PARAIBA TV CORREIO" tvg-logo="https://i.imgur.com/QvGql4P.png" group-title="RECORDTV",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] RECORDTV
+http://191.212.166.203:4000/play/a0fi
+#EXTINF:-1 tvg-id="Redevida.br" tvg-name="REDE VIDA HD*" tvg-logo="https://i.imgur.com/uP8NxOv.png" group-title="RELIGIOSOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] REDE VIDA
+http://191.212.166.203:4000/play/a0ht
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD" tvg-logo="https://i.imgur.com/lFCekDW.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SPORTV 
+http://191.212.166.203:4000/play/a0h2
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD" tvg-logo="https://i.imgur.com/LvLysTs.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SPORTV 2
+http://191.212.166.203:4000/play/a0h3
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SPORTV 3 
+http://191.212.166.203:4000/play/a0hz
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="STAR CHANNEL HD" tvg-logo="https://seeklogo.com/images/S/star-channel-logo-21915A5369-seeklogo.com.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] STAR CHANNEL 
+http://191.212.166.203:4000/play/a0i8
+#EXTINF:-1 tvg-id="Space.br" tvg-name="SPACE HD" tvg-logo="https://i.imgur.com/iSzHmqM.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SPACE 
+http://191.212.166.203:4000/play/a0e7
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 HD" tvg-logo="https://i.imgur.com/sKPEdto.png" group-title="ESPORTES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SPORTV 3 HD*
+http://191.212.166.203:4000/play/a09f
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD*" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] UNIVERSAL TV HD*
+http://191.212.166.203:4000/play/a07a
+#EXTINF:-1 tvg-id="Syfy.br" tvg-name="SYFY HD" tvg-logo="https://i.imgur.com/0PKWfRC.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] SYFY
+http://191.212.166.203:4000/play/a09s
+#EXTINF:-1 tvg-id="Tbs.br" tvg-name="TBS HD*" tvg-logo="https://i.imgur.com/kjscnn4.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TBS HD*
+http://191.212.166.203:4000/play/a08o
+#EXTINF:-1 tvg-id="Tcm.br" tvg-name="TCM HD" tvg-logo="https://i.imgur.com/Ndlsl8j.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TCM
+http://191.212.166.203:4000/play/a06h
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD [LEG]*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="CANAIS LEGENDADOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC CULT HD [LEG]*
+http://191.212.166.203:4000/play/a09y
+#EXTINF:-1 tvg-id="Tlc.br" tvg-name="TLC HD" tvg-logo="https://i.imgur.com/yE1pcIp.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TLC 
+http://191.212.166.203:4000/play/a08i
+#EXTINF:-1 tvg-id="Tnt.br" tvg-name="TNT HD" tvg-logo="https://i.imgur.com/PD8rhur.png" group-title="FILMES E SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TNT
+http://191.212.166.203:4000/play/a0j8
+#EXTINF:-1 tvg-id="TNTSerie.br" tvg-name="TNT SERIES SD [LEG]*" tvg-logo="https://i.imgur.com/1CEu05z.png" group-title="CANAIS LEGENDADOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TNT SERIES
+http://191.212.166.203:4000/play/a09m
+#EXTINF:-1 tvg-id="Tvaparecida.br" tvg-name="TV APARECIDA HD" tvg-logo="https://4.bp.blogspot.com/-kQzOl7-RrjA/WiCugnouw_I/AAAAAAAABhw/RbKoZ9Yc1rMF61KI68JbCM3AIfNP2Q7SQCLcBGAs/s1600/aparecida.png" group-title="RELIGIOSOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TV APARECIDA
+http://191.212.166.203:4000/play/a0gy
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASIL HD*" tvg-logo="https://i.imgur.com/MBKfgHA.png" group-title="ABERTOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TV BRASIL
+http://191.212.166.203:4000/play/a0gp
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="TV CULTURA HD" tvg-logo="https://i.imgur.com/ptlcUjq.png" group-title="ABERTOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TV CULTURA
+http://191.212.166.203:4000/play/a0g8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/en036n6.jpg" group-title="24HS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TV Escola
+http://191.212.166.203:4000/play/a0ew
+#EXTINF:-1 tvg-id="Tvratimbum.br" tvg-name="TV RA TIM BUM SD" tvg-logo="https://i.imgur.com/oGslzRR.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TV RA TIM BUM
+http://191.212.166.203:4000/play/a0g9
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC ACTION HD*
+http://191.212.166.203:4000/play/a0j5
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC CULT HD*
+http://191.212.166.203:4000/play/a0j3
+#EXTINF:-1 tvg-id="Tcfun.br" tvg-name="TC FUN SD*" tvg-logo="https://i.imgur.com/vOayT80.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC FUN HD*
+http://191.212.166.203:4000/play/a07e
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC PIPOCA HD*
+http://191.212.166.203:4000/play/a0jb
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC PREMIUM HD*
+http://191.212.166.203:4000/play/a09j
+#EXTINF:-1 tvg-id="Tctouch.br" tvg-name="TC TOUCH HD*" tvg-logo="https://i.imgur.com/ToEiXRN.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC TOUCH HD*
+http://191.212.166.203:4000/play/a073
+#EXTINF:-1 tvg-id="Historychannel.br" tvg-name="HISTORY HD" tvg-logo="https://i.imgur.com/bYpDPqw.png" group-title="DOCUMENTÁRIOS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] HISTORY 
+http://191.212.166.203:4000/play/a0ea
+#EXTINF:-1 tvg-id="Tooncast.br" tvg-name="TOONCAST HD" tvg-logo="https://i.imgur.com/lVGMsUB.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TOONCAST 
+http://191.212.166.203:4000/play/a067
+#EXTINF:-1 tvg-id="Trutv.br" tvg-name="TRUTV HD" tvg-logo="https://i.imgur.com/bDZaOpB.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TRUTV 
+http://191.212.166.203:4000/play/a08s
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="UNIVERSAL TV HD" tvg-logo="https://i.imgur.com/VuLAG6n.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] UNIVERSAL TV 
+http://191.212.166.203:4000/play/a0ja
+#EXTINF:-1 tvg-id="Viva.br" tvg-name="VIVA HD" tvg-logo="https://i.imgur.com/ulwg019.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] VIVA 
+http://191.212.166.203:4000/play/a0ho
+#EXTINF:-1 tvg-id="Woohoo.br" tvg-name="WOOHOO HD" tvg-logo="https://i.imgur.com/sZy0jUO.png" group-title="VARIEDADES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] WOOHOO
+http://191.212.166.203:4000/play/a0go
+#EXTINF:-1 tvg-id="Zoomoo.br" tvg-name="ZOOMOO HD" tvg-logo="https://i.imgur.com/pGDfA60.png" group-title="INFANTIS",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] ZOOMOO
+http://191.212.166.203:4000/play/a08u
+#EXTINF:-1 tvg-id="Tcaction.br" tvg-name="TC ACTION HD*" tvg-logo="https://i.imgur.com/2eSRnsW.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC ACTION HD 2
+http://191.212.166.203:4000/play/a0hk
+#EXTINF:-1 tvg-id="Tccult.br" tvg-name="TC CULT HD*" tvg-logo="https://i.imgur.com/4A0nZOf.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC CULT HD 2
+http://191.212.166.203:4000/play/a0hm
+#EXTINF:-1 tvg-id="Tcpipoca.br" tvg-name="TC PIPOCA HD*" tvg-logo="https://i.imgur.com/cT8PnyP.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC PIPOCA HD 2 
+http://191.212.166.203:4000/play/a0hj
+#EXTINF:-1 tvg-id="Tcpremium.br" tvg-name="TC PREMIUM HD*" tvg-logo="https://i.imgur.com/CAg6MXJ.png" group-title="GLOBOSAT FILMES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR] TC PREMIUM HD 2 
+http://191.212.166.203:4000/play/a0hl
