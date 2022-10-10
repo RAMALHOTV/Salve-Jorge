@@ -9,9 +9,9 @@ http://189
 http://a5telecom.distv.net:8080/0388/0388/630
 #EXTINF:-1 tvg-id="" tvg-name="AGRO BRASIL" tvg-logo="http://45.170.92.6:8080/icones/agrobrasil.png" group-title="PARABOLICA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AGRO BRASIL
 http://a5telecom.distv.net:8080/0388/0388/427
-#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://45.170.92.6:8080/icones/agrocanal.png" group-title="PARABOLICA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AGRO CANAL
+#EXTINF:-1 tvg-id="" tvg-name="AGRO CANAL" tvg-logo="http://45.170.92.6:8080/icones/agrocanal.png" group-title="PARABOLICA",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AGRO CANAL
 http://a5telecom.distv.net:8080/0388/0388/428
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://45.170.92.6:8080/icones/amc.png" group-title="FILMES&SERIES",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AMC
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://45.170.92.6:8080/icones/amc.png" group-title="FILMES&SERIES",[/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AMC
 http://a5telecom.distv.net:8080/0388/0388/631
 #EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://45.170.92.6:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]ANIMAL PLANET
 http://a5telecom.distv.net:8080/0388/0388/597
