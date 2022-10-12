@@ -13,7 +13,7 @@ http://a5telecom.distv.net:8080/0388/0388/427
 http://a5telecom.distv.net:8080/0388/0388/428
 #EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC" tvg-logo="http://45.170.92.6:8080/icones/amc.png" group-title="FILMES&SERIES",[/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]AMC
 http://a5telecom.distv.net:8080/0388/0388/631
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://45.170.92.6:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR red][B]RamalhoIPTV ||[/B][/COLOR]ANIMAL PLANET
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://45.170.92.6:8080/icones/animalplanet.png" group-title="ENTRETENIMENTO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]ANIMAL PLANET
 http://a5telecom.distv.net:8080/0388/0388/597
 #EXTINF:-1 tvg-id="ARTE1" tvg-name="ARTE 1" tvg-logo="http://45.170.92.6:8080/icones/arte1.png" group-title="ENTRETENIMENTO",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR]ARTE 1
 http://a5telecom.distv.net:8080/0388/0388/598
