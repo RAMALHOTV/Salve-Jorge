@@ -1,6 +1,3 @@
-
-
-
 #EXTM3U
 #EXTINF:-1"Informações da Lista",[COLOR red][B]RamalhoIPTV ||[/B][/COLOR][COLOR pink][B] Última Atualização: 10/10 - 18:42 [/B][/COLOR]
 http://189
@@ -24,8 +21,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5042
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5396
-#EXTINF:-1 tvg-id="" tvg-name="ANNE PORTILHA" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | XXX +18 ADULTOS",ANNE PORTILHA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1010108
 #EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | FILMES & SERIES",ARTE 1 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/38424
 #EXTINF:-1 tvg-id="arte.1.br" tvg-name="ARTE 1 FHD " tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/923/HARV4n.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | FILMES & SERIES",ARTE 1 FHD 
@@ -84,10 +79,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5044
 #EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS SD" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/924/WHWkVN.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | ESPORTES",BAND SPORTS SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5402
-#EXTINF:-1 tvg-id="" tvg-name="BIA" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | XXX +18 ADULTOS",BIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1010120
-#EXTINF:-1 tvg-id="" tvg-name="BIG MACK 1" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | XXX +18 ADULTOS",BIG MACK 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1010080
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS FHD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | MUSICA",BIS FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5195
 #EXTINF:-1 tvg-id="bis.br" tvg-name="BIS HD" tvg-logo="http://logocanais.ddns.net/Logo/Bis1.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | MUSICA",BIS HD
@@ -292,8 +283,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/923898
 #EXTINF:-1 tvg-id="fashion.br" tvg-name="FASHION TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e8/FashionTV2019novo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | VARIEDADES",FASHION TV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/923100
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDO GANG BANG AO VIVO" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | XXX +18 ADULTOS",FAZENDO GANG BANG AO VIVO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1010088
 #EXTINF:-1 tvg-id="film.arts.br" tvg-name="FILM & ARTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/filmandarts2018.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | VARIEDADES",FILM & ARTS SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/923436
 #EXTINF:-1 tvg-id="" tvg-name="Filmes Ação" tvg-logo="https://imgur.com/8Vr6580.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | PLUTO TV",Filmes Ação
@@ -422,8 +411,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5204
 #EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/yLVo0Y.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | VARIEDADES",HGTV HD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5052
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIAS DE UMA GUEIXA" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | XXX +18 ADULTOS",HISTORIAS DE UMA GUEIXA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1010094
 #EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5235
 #EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 FHD " tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/923/JKU0Ir.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | DOCUMENTÁRIOS",HISTORY 2 FHD 
@@ -830,8 +817,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/5535
 #EXTINF:-1 tvg-id="" tvg-name="VILLA MIX SD" tvg-logo="http://brla.me/242.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | SHOWS 24h",VILLA MIX SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/923157
-#EXTINF:-1 tvg-id="" tvg-name="VIOLAÇÃO ANAL" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | XXX +18 ADULTOS",VIOLAÇÃO ANAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1010106
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | VARIEDADES",VIVA FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/30742
 #EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA HD" tvg-logo="https://uploaddeimagens.com.br/images/003/647/070/thumb/Canal_Viva_logo_2014.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | VARIEDADES",VIVA HD
@@ -1366,3 +1351,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1002203
 #EXTINF:-1 tvg-id="globo.belo.horizonte.br" tvg-name="GLOBO BELO HORIZONTE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/archive/9/9e/20211202144042%21Logotipo_da_TV_Globo.png" group-title="[COLOR  turquoise][B]RamalhoIPTV [/COLOR][/B]CANAIS | GLOBO",GLOBO BELO HORIZONTE FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV [/COLOR][/B];&buffer=60000;url=http://rctv.tech:80/00005734/MF159357C/1002204
+
+
+
